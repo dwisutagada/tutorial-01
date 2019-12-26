@@ -1,3 +1,4 @@
 NO.REG	: 1820010229
 NAMA	: Dwi Suta Gada Satria
 JURUSAN	: SE
+ANGKATAN : 2018
